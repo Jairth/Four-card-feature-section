@@ -1,5 +1,4 @@
 @import url('./reset.css');
-@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 
 :root {
   --Primary-Red: hsl(0, 78%, 62%);
@@ -9,10 +8,6 @@
   --Neutral-Very-Dark-Blue: hsl(234, 12%, 34%);
   --Neutral-Grayish-Blue: hsl(229, 6%, 66%);
   --Neutral-Very-Light-Gray: hsl(0, 0%, 98%);
-}
-
-html {
-  font-family: 'Popppins', sans-serif;
 }
 
 body {
